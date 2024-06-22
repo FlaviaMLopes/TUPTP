@@ -2,7 +2,7 @@
 ## Requirements
 #### Data
 
-To create this model, it is necessary to have generated _Model 1_. For instructions on how to generate the referenced model, go to the folder _1 - pt_1_both_directions_stops_by_routes_links_by_routes_. 
+To create this model, it is necessary to have generated _Model 1_. For instructions on how to generate the referenced model, go to the folder [1 - pt_1_both_directions_stops_by_routes_links_by_routes](https://github.com/FlaviaMLopes/TUPTP/tree/main/1%20-%20Notebooks_multimodal_models/1%20-%20pt_1_both_directions_stops_by_routes_links_by_routes). 
 
 
 #### Packages
