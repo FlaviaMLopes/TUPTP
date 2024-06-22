@@ -23,4 +23,4 @@ url = {https://github.com/FlaviaMLopes/simplified_GTFS.git}
 
 ## Funding 
 
-These models are part of the wider research project *"Developing a design-support tool to integrate urban and public transport planning towards sustainable urban development"* developed by Gianna Stravoulaki, Jorge Gil, and Flavia Lopes and funded by Transport Area of Advance of at Chalmers University of Technology, Sweden. 
+This repository is the result of the research project "Developing a Design-Support Tool to Integrate Urban and Public Transport Planning Towards Sustainable Urban Development", conducted by Gianna Stravoulaki, Jorge Gil, and Flavia Lopes, and funded by the Transport Area of Advance at Chalmers University of Technology, Sweden.
