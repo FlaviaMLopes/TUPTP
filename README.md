@@ -1,5 +1,6 @@
 # TUPTP_project
-Multimodal models to urban and transport planning
+Simplified Multimodal Public Transport Network Models for integrated urban and transport planning
+
 ## Citation
 
 #### Simplified Multimodal Public Transport Network Models: 
