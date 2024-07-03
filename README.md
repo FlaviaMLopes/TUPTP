@@ -12,7 +12,7 @@ These models are developed by Flavia Lopes and Jorge Gil at Chalmers University 
 
 APA: 
 
-- Lopes, F., & Gil, J.Simplified Multimodal Public Transport Network Models for integrated urban and transport planning. [Computer software]. https://github.com/FlaviaMLopes/simplified_GTFS.git
+- Lopes, F., & Gil, J.Simplified Multimodal Public Transport Network Models for integrated urban and transport planning. [Computer software]. https://github.com/FlaviaMLopes/TUPTP
 
 BibTeX: 
 
